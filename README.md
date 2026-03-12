@@ -144,8 +144,4 @@ Hiring Optimization :-
 
 After 2019, resignation rates increased while hiring slowed down. Organizations may need to adjust recruitment strategies to maintain workforce stability.
 
-## Dashboard Report
 
-📄 View Full Dashboard Report
-
-[Click Here](./Hr employee attrition.pdf)
