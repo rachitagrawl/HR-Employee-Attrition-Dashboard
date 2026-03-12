@@ -146,6 +146,6 @@ After 2019, resignation rates increased while hiring slowed down. Organizations 
 
 ## Dashboard Report
 
-You can view the complete dashboard report here:
+📄 View Full Dashboard Report
 
-[View Full Dashboard Report](Hr_employee_attrition.pdf)
+[Click Here](./Hr employee attrition.pdf)
