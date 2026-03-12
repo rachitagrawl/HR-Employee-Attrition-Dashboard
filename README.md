@@ -143,3 +143,9 @@ Employees living in metropolitan cities may require competitive salaries aligned
 Hiring Optimization :- 
 
 After 2019, resignation rates increased while hiring slowed down. Organizations may need to adjust recruitment strategies to maintain workforce stability.
+
+## Dashboard Report
+
+You can view the complete dashboard report here:
+
+[View Full Dashboard Report](HR_Attrition_Dashboard.pdf)
